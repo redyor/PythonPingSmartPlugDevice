@@ -1,0 +1,900 @@
+04/03/2018 12:29:15 PM - INFO - Ping successfull! nothing to do
+04/03/2018 12:51:18 PM - INFO - Ping successfull! nothing to do
+04/03/2018 01:05:25 PM - INFO - Ping successfull! nothing to do
+04/03/2018 01:06:06 PM - INFO - Ping successfull! nothing to do
+04/03/2018 01:25:19 PM - INFO - Ping successfull! nothing to do
+04/03/2018 01:41:57 PM - INFO - Ping successfull! nothing to do
+04/03/2018 01:42:04 PM - INFO - Ping successfull! nothing to do
+04/03/2018 01:43:37 PM - INFO - Ping successfull! nothing to do
+04/03/2018 01:48:36 PM - INFO - Ping successfull! nothing to do
+04/03/2018 01:53:36 PM - INFO - Ping successfull! nothing to do
+04/03/2018 01:58:36 PM - INFO - Ping successfull! nothing to do
+04/03/2018 02:08:38 PM - INFO - Ping successfull! nothing to do
+04/03/2018 02:23:37 PM - INFO - Ping successfull! nothing to do
+04/03/2018 02:38:37 PM - INFO - Ping successfull! nothing to do
+04/03/2018 02:53:37 PM - INFO - Ping successfull! nothing to do
+04/03/2018 03:08:37 PM - INFO - Ping successfull! nothing to do
+04/03/2018 03:23:37 PM - INFO - Ping successfull! nothing to do
+04/03/2018 03:38:37 PM - INFO - Ping successfull! nothing to do
+04/03/2018 03:53:37 PM - INFO - Ping successfull! nothing to do
+04/03/2018 04:08:37 PM - INFO - Ping successfull! nothing to do
+04/03/2018 04:23:37 PM - INFO - Ping successfull! nothing to do
+04/03/2018 04:38:37 PM - INFO - Ping successfull! nothing to do
+04/03/2018 04:53:37 PM - INFO - Ping successfull! nothing to do
+04/03/2018 05:08:37 PM - INFO - Ping successfull! nothing to do
+04/03/2018 05:23:37 PM - INFO - Ping successfull! nothing to do
+04/03/2018 05:24:23 PM - INFO - Ping successfull! nothing to do
+04/03/2018 05:38:37 PM - INFO - Ping successfull! nothing to do
+04/03/2018 05:53:37 PM - INFO - Ping successfull! nothing to do
+04/03/2018 06:08:37 PM - INFO - Ping successfull! nothing to do
+04/03/2018 06:23:37 PM - INFO - Ping successfull! nothing to do
+04/03/2018 06:38:37 PM - INFO - Ping successfull! nothing to do
+04/03/2018 06:53:37 PM - INFO - Ping successfull! nothing to do
+04/03/2018 07:08:37 PM - INFO - Ping successfull! nothing to do
+04/03/2018 07:18:00 PM - INFO - Ping successfull! nothing to do
+04/03/2018 07:23:37 PM - INFO - Ping successfull! nothing to do
+04/03/2018 07:23:45 PM - INFO - Ping successfull! nothing to do
+04/03/2018 07:27:43 PM - INFO - Current Wattage969.82486
+04/03/2018 07:27:43 PM - INFO - Ping successfull! nothing to do
+04/03/2018 07:38:37 PM - INFO - Current Wattage902.989707
+04/03/2018 07:38:37 PM - INFO - Ping successfull! nothing to do
+04/03/2018 07:53:37 PM - INFO - Current Wattage959.257315
+04/03/2018 07:53:37 PM - INFO - Ping successfull! nothing to do
+04/03/2018 08:08:37 PM - INFO - Current Wattage955.257202
+04/03/2018 08:08:37 PM - INFO - Ping successfull! nothing to do
+04/03/2018 08:23:40 PM - INFO - Current Wattage339.60821
+04/03/2018 08:23:43 PM - ERROR - Ping Failed! We had to restart the rig
+04/03/2018 08:38:37 PM - INFO - Current Wattage339.540682
+04/03/2018 08:38:40 PM - ERROR - Ping Failed! We had to restart the rig
+04/03/2018 08:53:37 PM - INFO - Current Wattage339.114016
+04/03/2018 08:53:40 PM - ERROR - Ping Failed! We had to restart the rig
+04/03/2018 09:08:37 PM - INFO - Current Wattage338.616854
+04/03/2018 09:08:40 PM - ERROR - Ping Failed! We had to restart the rig
+04/03/2018 09:23:37 PM - INFO - Current Wattage338.529476
+04/03/2018 09:23:40 PM - ERROR - Ping Failed! We had to restart the rig
+04/03/2018 09:38:37 PM - INFO - Current Wattage339.009558
+04/03/2018 09:38:41 PM - ERROR - Ping Failed! We had to restart the rig
+04/03/2018 09:53:37 PM - INFO - Current Wattage338.58698
+04/03/2018 09:53:41 PM - ERROR - Ping Failed! We had to restart the rig
+04/03/2018 10:08:37 PM - INFO - Current Wattage338.347863
+04/03/2018 10:08:41 PM - ERROR - Ping Failed! We had to restart the rig
+04/03/2018 10:23:37 PM - INFO - Current Wattage338.28383
+04/03/2018 10:23:41 PM - ERROR - Ping Failed! We had to restart the rig
+04/03/2018 10:30:27 PM - INFO - Current Wattage338.212081
+04/03/2018 10:30:31 PM - ERROR - Ping Failed! We had to restart the rig
+04/03/2018 10:31:58 PM - INFO - Current Wattage338.221445
+04/03/2018 10:34:30 PM - INFO - Current Wattage338.145608
+04/03/2018 10:34:50 PM - INFO - Current Wattage338.212806
+04/03/2018 10:36:41 PM - INFO - Current Wattage338.190121
+04/03/2018 10:37:52 PM - INFO - Current Wattage338.163018
+04/03/2018 10:38:37 PM - INFO - Current Wattage338.289831
+04/03/2018 10:53:37 PM - INFO - Current Wattage959.768919
+04/03/2018 11:08:37 PM - INFO - Current Wattage971.271107
+04/03/2018 11:23:37 PM - INFO - Current Wattage959.057698
+04/03/2018 11:38:37 PM - INFO - Current Wattage928.149837
+04/03/2018 11:53:37 PM - INFO - Current Wattage895.772516
+04/04/2018 12:08:37 AM - INFO - Current Wattage907.98975
+04/04/2018 12:23:37 AM - INFO - Current Wattage917.407207
+04/04/2018 12:38:37 AM - INFO - Current Wattage935.320537
+04/04/2018 12:53:37 AM - INFO - Current Wattage935.651649
+04/04/2018 01:08:37 AM - INFO - Current Wattage979.258738
+04/04/2018 01:23:37 AM - INFO - Current Wattage960.157535
+04/04/2018 01:38:37 AM - INFO - Current Wattage976.541526
+04/04/2018 01:53:37 AM - INFO - Current Wattage888.224015
+04/04/2018 02:08:37 AM - INFO - Current Wattage942.198044
+04/04/2018 02:23:37 AM - INFO - Current Wattage998.667708
+04/04/2018 02:38:37 AM - INFO - Current Wattage963.814337
+04/04/2018 02:53:37 AM - INFO - Current Wattage978.412264
+04/04/2018 03:08:37 AM - INFO - Current Wattage951.443252
+04/04/2018 03:23:37 AM - INFO - Current Wattage943.856899
+04/04/2018 03:38:36 AM - INFO - Current Wattage993.677953
+04/04/2018 03:53:36 AM - INFO - Current Wattage913.745526
+04/04/2018 04:08:36 AM - INFO - Current Wattage935.001098
+04/04/2018 04:23:36 AM - INFO - Current Wattage931.212933
+04/04/2018 04:38:36 AM - INFO - Current Wattage945.027825
+04/04/2018 04:53:36 AM - INFO - Current Wattage947.928959
+04/04/2018 05:08:36 AM - INFO - Current Wattage991.034797
+04/04/2018 05:23:36 AM - INFO - Current Wattage938.915284
+04/04/2018 05:38:36 AM - INFO - Current Wattage942.927004
+04/04/2018 05:53:36 AM - INFO - Current Wattage954.418113
+04/04/2018 06:08:36 AM - INFO - Current Wattage945.524591
+04/04/2018 06:23:36 AM - INFO - Current Wattage989.12746
+04/04/2018 06:38:36 AM - INFO - Current Wattage923.631064
+04/04/2018 06:53:36 AM - INFO - Current Wattage955.74434
+04/04/2018 07:08:36 AM - INFO - Current Wattage944.011541
+04/04/2018 07:23:36 AM - INFO - Current Wattage939.104283
+04/04/2018 07:38:36 AM - INFO - Current Wattage930.193945
+04/04/2018 07:53:36 AM - INFO - Current Wattage979.039272
+04/04/2018 08:08:36 AM - INFO - Current Wattage903.226583
+04/04/2018 08:23:36 AM - INFO - Current Wattage933.775899
+04/04/2018 08:38:36 AM - INFO - Current Wattage923.178942
+04/04/2018 08:53:36 AM - INFO - Current Wattage909.382713
+04/04/2018 09:08:36 AM - INFO - Current Wattage965.298503
+04/04/2018 09:23:36 AM - INFO - Current Wattage950.05807
+04/04/2018 09:38:36 AM - INFO - Current Wattage994.932432
+04/04/2018 09:53:36 AM - INFO - Current Wattage977.599883
+04/04/2018 10:08:36 AM - INFO - Current Wattage961.567117
+04/04/2018 10:23:36 AM - INFO - Current Wattage975.212661
+04/04/2018 10:38:36 AM - INFO - Current Wattage986.012465
+04/04/2018 10:53:36 AM - INFO - Current Wattage957.973095
+04/04/2018 11:08:36 AM - INFO - Current Wattage983.867131
+04/04/2018 11:23:36 AM - INFO - Current Wattage950.471548
+04/04/2018 11:38:36 AM - INFO - Current Wattage928.371414
+04/04/2018 11:53:36 AM - INFO - Current Wattage951.347104
+04/04/2018 12:08:36 PM - INFO - Current Wattage972.40728
+04/04/2018 12:23:36 PM - INFO - Current Wattage976.320345
+04/04/2018 12:38:36 PM - INFO - Current Wattage984.844639
+04/04/2018 12:53:36 PM - INFO - Current Wattage935.981243
+04/04/2018 01:08:36 PM - INFO - Current Wattage952.20103
+04/04/2018 01:23:36 PM - INFO - Current Wattage442.310446
+04/04/2018 01:38:36 PM - INFO - Current Wattage974.898827
+04/04/2018 01:53:36 PM - INFO - Current Wattage952.134689
+04/04/2018 02:08:36 PM - INFO - Current Wattage937.559909
+04/04/2018 02:23:36 PM - INFO - Current Wattage960.998008
+04/04/2018 02:38:36 PM - INFO - Current Wattage940.110741
+04/04/2018 02:53:36 PM - INFO - Current Wattage955.818265
+04/04/2018 03:08:36 PM - INFO - Current Wattage951.796719
+04/04/2018 03:23:36 PM - INFO - Current Wattage943.416846
+04/04/2018 03:38:36 PM - INFO - Current Wattage958.945393
+04/04/2018 03:53:36 PM - INFO - Current Wattage946.848972
+04/04/2018 04:08:36 PM - INFO - Current Wattage922.993306
+04/04/2018 04:23:36 PM - INFO - Current Wattage951.020015
+04/04/2018 04:38:36 PM - INFO - Current Wattage962.852458
+04/04/2018 04:53:36 PM - INFO - Current Wattage915.052299
+04/04/2018 05:08:36 PM - INFO - Current Wattage993.999569
+04/04/2018 05:22:15 PM - INFO - Current Wattage980.203471
+04/04/2018 05:23:36 PM - INFO - Current Wattage964.521864
+04/04/2018 05:23:36 PM - INFO - Ping successfull! nothing to do
+04/04/2018 05:23:49 PM - INFO - Current Wattage970.65531
+04/04/2018 05:23:49 PM - INFO - Ping successfull! nothing to do
+04/04/2018 05:38:36 PM - INFO - Current Wattage999.644161
+04/04/2018 05:38:36 PM - INFO - Ping successfull! nothing to do
+04/04/2018 05:43:56 PM - INFO - Current Wattage981.728787
+04/04/2018 05:45:50 PM - INFO - Current Wattage982.601904
+04/04/2018 05:45:50 PM - INFO - Ping successfull! nothing to do
+04/04/2018 05:51:52 PM - INFO - Current Wattage941.632562
+04/04/2018 05:53:36 PM - INFO - Ping successfull! nothing to do
+04/04/2018 05:55:15 PM - INFO - Current Wattage938.143657
+04/04/2018 05:55:15 PM - INFO - Ping successfull! nothing to do
+04/04/2018 06:02:32 PM - INFO - Current Wattage927.003575
+04/04/2018 06:02:32 PM - INFO - Ping successfull! Power Usage :927.003575 Watts 
+04/04/2018 06:08:36 PM - INFO - Ping successfull! Power Usage :960.060859 Watts 
+04/04/2018 06:18:46 PM - INFO - Ping successfull! Power Usage :982.253712 Watts 
+04/04/2018 06:19:48 PM - INFO - Ping successfull! Power Usage :914.329604 Watts 
+04/04/2018 06:21:51 PM - INFO - Ping successfull! Power Usage :931.437081 Watts 
+04/04/2018 06:23:36 PM - INFO - Ping successfull! Power Usage :918.893814 Watts 
+04/04/2018 06:38:36 PM - INFO - Ping successfull! Power Usage :896.212042 Watts 
+04/04/2018 06:53:36 PM - INFO - Ping successfull! Power Usage :964.209943 Watts 
+04/04/2018 07:08:36 PM - INFO - Ping successfull! Power Usage :944.539631 Watts 
+04/04/2018 07:23:36 PM - INFO - Ping successfull! Power Usage :934.091711 Watts 
+04/04/2018 07:38:36 PM - INFO - Ping successfull! Power Usage :912.062469 Watts 
+04/04/2018 07:53:36 PM - INFO - Ping successfull! Power Usage :931.7736 Watts 
+04/04/2018 08:08:36 PM - INFO - Ping successfull! Power Usage :947.993123 Watts 
+04/04/2018 08:23:36 PM - INFO - Ping successfull! Power Usage :943.495782 Watts 
+04/04/2018 08:38:36 PM - INFO - Ping successfull! Power Usage :962.199994 Watts 
+04/04/2018 08:53:36 PM - INFO - Ping successfull! Power Usage :882.338788 Watts 
+04/04/2018 09:08:36 PM - INFO - Ping successfull! Power Usage :963.666685 Watts 
+04/04/2018 09:23:36 PM - INFO - Ping successfull! Power Usage :963.558535 Watts 
+04/04/2018 09:38:36 PM - INFO - Ping successfull! Power Usage :964.211723 Watts 
+04/04/2018 09:53:36 PM - INFO - Ping successfull! Power Usage :953.779169 Watts 
+04/04/2018 10:08:36 PM - INFO - Ping successfull! Power Usage :968.617071 Watts 
+04/04/2018 10:23:36 PM - INFO - Ping successfull! Power Usage :889.98924 Watts 
+04/04/2018 10:38:36 PM - INFO - Ping successfull! Power Usage :968.458604 Watts 
+04/04/2018 10:53:36 PM - INFO - Ping successfull! Power Usage :980.368796 Watts 
+04/04/2018 10:57:26 PM - ERROR - Ping Failed! We had to restart the rig
+04/04/2018 11:08:36 PM - INFO - Ping successfull! Power Usage :892.761979 Watts 
+04/04/2018 11:23:36 PM - INFO - Ping successfull! Power Usage :937.757943 Watts 
+04/04/2018 11:38:36 PM - INFO - Ping successfull! Power Usage :933.380952 Watts 
+04/04/2018 11:53:36 PM - INFO - Ping successfull! Power Usage :947.774778 Watts 
+04/05/2018 12:08:36 AM - INFO - Ping successfull! Power Usage :939.661654 Watts 
+04/05/2018 12:23:36 AM - INFO - Ping successfull! Power Usage :956.287004 Watts 
+04/05/2018 12:38:37 AM - INFO - Ping successfull! Power Usage :930.944799 Watts 
+04/05/2018 12:53:37 AM - INFO - Ping successfull! Power Usage :942.819315 Watts 
+04/05/2018 01:08:37 AM - INFO - Ping successfull! Power Usage :989.869477 Watts 
+04/05/2018 01:23:37 AM - INFO - Ping successfull! Power Usage :862.877787 Watts 
+04/05/2018 01:38:37 AM - INFO - Ping successfull! Power Usage :916.768659 Watts 
+04/05/2018 01:53:37 AM - INFO - Ping successfull! Power Usage :894.755836 Watts 
+04/05/2018 02:08:37 AM - INFO - Ping successfull! Power Usage :986.082433 Watts 
+04/05/2018 02:23:37 AM - INFO - Ping successfull! Power Usage :998.007727 Watts 
+04/05/2018 02:38:37 AM - INFO - Ping successfull! Power Usage :912.521712 Watts 
+04/05/2018 02:53:37 AM - INFO - Ping successfull! Power Usage :913.763727 Watts 
+04/05/2018 03:08:37 AM - INFO - Ping successfull! Power Usage :952.190941 Watts 
+04/05/2018 03:23:37 AM - INFO - Ping successfull! Power Usage :956.172721 Watts 
+04/05/2018 03:38:37 AM - INFO - Ping successfull! Power Usage :944.369822 Watts 
+04/05/2018 03:53:37 AM - INFO - Ping successfull! Power Usage :927.343787 Watts 
+04/05/2018 04:08:37 AM - INFO - Ping successfull! Power Usage :981.205775 Watts 
+04/05/2018 04:23:37 AM - INFO - Ping successfull! Power Usage :980.34011 Watts 
+04/05/2018 04:38:37 AM - INFO - Ping successfull! Power Usage :951.002408 Watts 
+04/05/2018 04:53:37 AM - INFO - Ping successfull! Power Usage :955.190465 Watts 
+04/05/2018 05:08:37 AM - INFO - Ping successfull! Power Usage :950.881662 Watts 
+04/05/2018 05:23:37 AM - INFO - Ping successfull! Power Usage :931.058753 Watts 
+04/05/2018 05:38:37 AM - INFO - Ping successfull! Power Usage :974.141774 Watts 
+04/05/2018 05:53:37 AM - INFO - Ping successfull! Power Usage :933.375149 Watts 
+04/05/2018 06:08:37 AM - INFO - Ping successfull! Power Usage :967.340896 Watts 
+04/05/2018 06:23:37 AM - INFO - Ping successfull! Power Usage :975.481916 Watts 
+04/05/2018 06:38:37 AM - INFO - Ping successfull! Power Usage :978.262568 Watts 
+04/05/2018 06:53:37 AM - INFO - Ping successfull! Power Usage :913.489064 Watts 
+04/05/2018 07:08:37 AM - INFO - Ping successfull! Power Usage :942.395748 Watts 
+04/05/2018 07:23:37 AM - INFO - Ping successfull! Power Usage :1006.440819 Watts 
+04/05/2018 07:38:37 AM - INFO - Ping successfull! Power Usage :970.5221 Watts 
+04/05/2018 07:53:37 AM - INFO - Ping successfull! Power Usage :850.961792 Watts 
+04/05/2018 08:08:37 AM - INFO - Ping successfull! Power Usage :940.321173 Watts 
+04/05/2018 08:23:37 AM - INFO - Ping successfull! Power Usage :960.035866 Watts 
+04/05/2018 08:38:37 AM - INFO - Ping successfull! Power Usage :959.798067 Watts 
+04/05/2018 08:53:37 AM - INFO - Ping successfull! Power Usage :922.867087 Watts 
+04/05/2018 09:08:37 AM - INFO - Ping successfull! Power Usage :961.729738 Watts 
+04/05/2018 09:23:37 AM - INFO - Ping successfull! Power Usage :930.950602 Watts 
+04/05/2018 09:38:37 AM - INFO - Ping successfull! Power Usage :967.505364 Watts 
+04/05/2018 09:53:37 AM - INFO - Ping successfull! Power Usage :956.885788 Watts 
+04/05/2018 10:08:37 AM - INFO - Ping successfull! Power Usage :965.480644 Watts 
+04/05/2018 10:23:37 AM - INFO - Ping successfull! Power Usage :923.256296 Watts 
+04/05/2018 10:38:37 AM - INFO - Ping successfull! Power Usage :887.220261 Watts 
+04/05/2018 10:53:37 AM - INFO - Ping successfull! Power Usage :962.926712 Watts 
+04/05/2018 11:08:37 AM - INFO - Ping successfull! Power Usage :938.319006 Watts 
+04/05/2018 11:23:37 AM - INFO - Ping successfull! Power Usage :975.976506 Watts 
+04/05/2018 11:38:37 AM - INFO - Ping successfull! Power Usage :921.172423 Watts 
+04/05/2018 11:53:37 AM - INFO - Ping successfull! Power Usage :952.626839 Watts 
+04/05/2018 12:08:37 PM - INFO - Ping successfull! Power Usage :926.750213 Watts 
+04/05/2018 12:23:37 PM - INFO - Ping successfull! Power Usage :928.507459 Watts 
+04/05/2018 12:38:37 PM - INFO - Ping successfull! Power Usage :910.914426 Watts 
+04/05/2018 12:53:37 PM - INFO - Ping successfull! Power Usage :982.990915 Watts 
+04/05/2018 01:08:37 PM - INFO - Ping successfull! Power Usage :935.781759 Watts 
+04/05/2018 01:23:37 PM - INFO - Ping successfull! Power Usage :897.769341 Watts 
+04/05/2018 01:38:37 PM - INFO - Ping successfull! Power Usage :963.230127 Watts 
+04/05/2018 01:53:37 PM - INFO - Ping successfull! Power Usage :964.769621 Watts 
+04/05/2018 02:08:37 PM - INFO - Ping successfull! Power Usage :911.143586 Watts 
+04/05/2018 02:23:37 PM - INFO - Ping successfull! Power Usage :959.368631 Watts 
+04/05/2018 02:38:37 PM - INFO - Ping successfull! Power Usage :925.87281 Watts 
+04/05/2018 02:53:38 PM - INFO - Ping successfull! Power Usage :979.620382 Watts 
+04/05/2018 03:08:36 PM - INFO - Ping successfull! Power Usage :904.384319 Watts 
+04/05/2018 03:23:36 PM - INFO - Ping successfull! Power Usage :913.332048 Watts 
+04/05/2018 03:38:36 PM - INFO - Ping successfull! Power Usage :954.152683 Watts 
+04/05/2018 03:53:36 PM - INFO - Ping successfull! Power Usage :930.029478 Watts 
+04/05/2018 04:08:36 PM - INFO - Ping successfull! Power Usage :985.248423 Watts 
+04/05/2018 04:23:36 PM - INFO - Ping successfull! Power Usage :928.591078 Watts 
+04/05/2018 04:38:36 PM - INFO - Ping successfull! Power Usage :923.655002 Watts 
+04/05/2018 04:53:36 PM - INFO - Ping successfull! Power Usage :938.825532 Watts 
+04/05/2018 05:08:36 PM - INFO - Ping successfull! Power Usage :955.126564 Watts 
+04/05/2018 05:23:36 PM - INFO - Ping successfull! Power Usage :956.246118 Watts 
+04/05/2018 05:38:36 PM - INFO - Ping successfull! Power Usage :942.389219 Watts 
+04/05/2018 05:53:36 PM - INFO - Ping successfull! Power Usage :958.376879 Watts 
+04/05/2018 06:08:36 PM - INFO - Ping successfull! Power Usage :934.593555 Watts 
+04/05/2018 06:23:36 PM - INFO - Ping successfull! Power Usage :960.332026 Watts 
+04/05/2018 06:38:36 PM - INFO - Ping successfull! Power Usage :904.336509 Watts 
+04/05/2018 06:53:36 PM - INFO - Ping successfull! Power Usage :958.967749 Watts 
+04/05/2018 07:08:36 PM - INFO - Ping successfull! Power Usage :887.00119 Watts 
+04/05/2018 07:23:36 PM - INFO - Ping successfull! Power Usage :940.443172 Watts 
+04/05/2018 07:38:36 PM - INFO - Ping successfull! Power Usage :944.403982 Watts 
+04/05/2018 07:53:36 PM - INFO - Ping successfull! Power Usage :985.10176 Watts 
+04/05/2018 08:08:36 PM - INFO - Ping successfull! Power Usage :1000.910971 Watts 
+04/05/2018 08:23:36 PM - INFO - Ping successfull! Power Usage :942.540696 Watts 
+04/05/2018 08:38:36 PM - INFO - Ping successfull! Power Usage :1009.848545 Watts 
+04/05/2018 08:53:36 PM - INFO - Ping successfull! Power Usage :885.109614 Watts 
+04/05/2018 09:08:36 PM - INFO - Ping successfull! Power Usage :982.510767 Watts 
+04/05/2018 09:23:36 PM - INFO - Ping successfull! Power Usage :958.455617 Watts 
+04/05/2018 09:38:43 PM - ERROR - Ping Failed! We had to restart the rig
+04/05/2018 09:53:36 PM - INFO - Ping successfull! Power Usage :932.850949 Watts 
+04/05/2018 10:08:36 PM - INFO - Ping successfull! Power Usage :952.631917 Watts 
+04/05/2018 10:23:36 PM - INFO - Ping successfull! Power Usage :963.486127 Watts 
+04/05/2018 10:38:36 PM - INFO - Ping successfull! Power Usage :989.090663 Watts 
+04/05/2018 10:53:36 PM - INFO - Ping successfull! Power Usage :965.870381 Watts 
+04/05/2018 11:08:36 PM - INFO - Ping successfull! Power Usage :971.693949 Watts 
+04/05/2018 11:23:36 PM - INFO - Ping successfull! Power Usage :885.653267 Watts 
+04/05/2018 11:38:36 PM - INFO - Ping successfull! Power Usage :908.552791 Watts 
+04/05/2018 11:53:36 PM - INFO - Ping successfull! Power Usage :959.205746 Watts 
+04/06/2018 12:08:36 AM - INFO - Ping successfull! Power Usage :971.359276 Watts 
+04/06/2018 12:23:36 AM - INFO - Ping successfull! Power Usage :940.329878 Watts 
+04/06/2018 12:38:36 AM - INFO - Ping successfull! Power Usage :949.383449 Watts 
+04/06/2018 12:53:36 AM - INFO - Ping successfull! Power Usage :961.648889 Watts 
+04/06/2018 01:08:36 AM - INFO - Ping successfull! Power Usage :947.753544 Watts 
+04/06/2018 01:23:36 AM - INFO - Ping successfull! Power Usage :911.157039 Watts 
+04/06/2018 01:38:36 AM - INFO - Ping successfull! Power Usage :952.787548 Watts 
+04/06/2018 01:53:36 AM - INFO - Ping successfull! Power Usage :945.557432 Watts 
+04/06/2018 02:08:36 AM - INFO - Ping successfull! Power Usage :933.652779 Watts 
+04/06/2018 02:23:36 AM - INFO - Ping successfull! Power Usage :952.380072 Watts 
+04/06/2018 02:38:36 AM - INFO - Ping successfull! Power Usage :947.868553 Watts 
+04/06/2018 02:53:36 AM - INFO - Ping successfull! Power Usage :971.213009 Watts 
+04/06/2018 03:08:36 AM - INFO - Ping successfull! Power Usage :902.326033 Watts 
+04/06/2018 03:23:36 AM - INFO - Ping successfull! Power Usage :921.74074 Watts 
+04/06/2018 03:38:36 AM - INFO - Ping successfull! Power Usage :951.341301 Watts 
+04/06/2018 03:53:36 AM - INFO - Ping successfull! Power Usage :956.762602 Watts 
+04/06/2018 04:08:36 AM - INFO - Ping successfull! Power Usage :934.089733 Watts 
+04/06/2018 04:23:36 AM - INFO - Ping successfull! Power Usage :966.11029 Watts 
+04/06/2018 04:38:36 AM - INFO - Ping successfull! Power Usage :913.540106 Watts 
+04/06/2018 04:53:36 AM - INFO - Ping successfull! Power Usage :914.307182 Watts 
+04/06/2018 05:08:36 AM - INFO - Ping successfull! Power Usage :916.10815 Watts 
+04/06/2018 05:23:36 AM - INFO - Ping successfull! Power Usage :989.561974 Watts 
+04/06/2018 05:38:36 AM - INFO - Ping successfull! Power Usage :917.159978 Watts 
+04/06/2018 05:53:36 AM - INFO - Ping successfull! Power Usage :967.7611 Watts 
+04/06/2018 06:08:36 AM - INFO - Ping successfull! Power Usage :953.446672 Watts 
+04/06/2018 06:23:36 AM - INFO - Ping successfull! Power Usage :968.043544 Watts 
+04/06/2018 06:38:36 AM - INFO - Ping successfull! Power Usage :948.09402 Watts 
+04/06/2018 06:53:36 AM - INFO - Ping successfull! Power Usage :966.7067 Watts 
+04/06/2018 07:08:36 AM - INFO - Ping successfull! Power Usage :959.925473 Watts 
+04/06/2018 07:23:36 AM - INFO - Ping successfull! Power Usage :954.595176 Watts 
+04/06/2018 07:38:36 AM - INFO - Ping successfull! Power Usage :981.006356 Watts 
+04/06/2018 07:53:36 AM - INFO - Ping successfull! Power Usage :930.6522 Watts 
+04/06/2018 08:08:36 AM - INFO - Ping successfull! Power Usage :929.801373 Watts 
+04/06/2018 08:23:36 AM - INFO - Ping successfull! Power Usage :917.011865 Watts 
+04/06/2018 08:38:36 AM - INFO - Ping successfull! Power Usage :978.256764 Watts 
+04/06/2018 08:53:36 AM - INFO - Ping successfull! Power Usage :928.287531 Watts 
+04/06/2018 09:08:36 AM - INFO - Ping successfull! Power Usage :936.632784 Watts 
+04/06/2018 09:23:36 AM - INFO - Ping successfull! Power Usage :956.359149 Watts 
+04/06/2018 09:38:36 AM - INFO - Ping successfull! Power Usage :937.44767 Watts 
+04/06/2018 09:53:36 AM - INFO - Ping successfull! Power Usage :915.501057 Watts 
+04/06/2018 10:08:36 AM - INFO - Ping successfull! Power Usage :952.478726 Watts 
+04/06/2018 10:23:36 AM - INFO - Ping successfull! Power Usage :999.789373 Watts 
+04/06/2018 10:38:36 AM - INFO - Ping successfull! Power Usage :943.17054 Watts 
+04/06/2018 10:53:36 AM - INFO - Ping successfull! Power Usage :947.667617 Watts 
+04/06/2018 11:08:36 AM - INFO - Ping successfull! Power Usage :971.968941 Watts 
+04/06/2018 11:23:36 AM - INFO - Ping successfull! Power Usage :943.971182 Watts 
+04/06/2018 11:38:36 AM - INFO - Ping successfull! Power Usage :929.322741 Watts 
+04/06/2018 11:53:36 AM - INFO - Ping successfull! Power Usage :966.461713 Watts 
+04/06/2018 12:08:36 PM - INFO - Ping successfull! Power Usage :952.444698 Watts 
+04/06/2018 12:23:36 PM - INFO - Ping successfull! Power Usage :948.860107 Watts 
+04/06/2018 12:38:36 PM - INFO - Ping successfull! Power Usage :915.623452 Watts 
+04/06/2018 12:53:37 PM - INFO - Ping successfull! Power Usage :985.266294 Watts 
+04/06/2018 01:08:37 PM - INFO - Ping successfull! Power Usage :962.775631 Watts 
+04/06/2018 01:23:37 PM - INFO - Ping successfull! Power Usage :950.472405 Watts 
+04/06/2018 01:38:37 PM - INFO - Ping successfull! Power Usage :966.386469 Watts 
+04/06/2018 01:53:37 PM - INFO - Ping successfull! Power Usage :930.352148 Watts 
+04/06/2018 02:08:37 PM - INFO - Ping successfull! Power Usage :969.768213 Watts 
+04/06/2018 02:23:37 PM - INFO - Ping successfull! Power Usage :969.749418 Watts 
+04/06/2018 02:38:37 PM - INFO - Ping successfull! Power Usage :949.382196 Watts 
+04/06/2018 02:53:37 PM - INFO - Ping successfull! Power Usage :935.095004 Watts 
+04/06/2018 03:08:37 PM - INFO - Ping successfull! Power Usage :890.821009 Watts 
+04/06/2018 03:23:37 PM - INFO - Ping successfull! Power Usage :920.967465 Watts 
+04/06/2018 03:38:37 PM - INFO - Ping successfull! Power Usage :906.600874 Watts 
+04/06/2018 03:53:37 PM - INFO - Ping successfull! Power Usage :909.600135 Watts 
+04/06/2018 04:08:37 PM - INFO - Ping successfull! Power Usage :945.970118 Watts 
+04/06/2018 04:23:37 PM - INFO - Ping successfull! Power Usage :951.046129 Watts 
+04/06/2018 04:38:37 PM - INFO - Ping successfull! Power Usage :960.47493 Watts 
+04/06/2018 04:53:37 PM - INFO - Ping successfull! Power Usage :946.700331 Watts 
+04/06/2018 05:08:37 PM - INFO - Ping successfull! Power Usage :970.020322 Watts 
+04/06/2018 05:23:37 PM - INFO - Ping successfull! Power Usage :964.213438 Watts 
+04/06/2018 05:38:37 PM - INFO - Ping successfull! Power Usage :931.593701 Watts 
+04/06/2018 05:53:37 PM - INFO - Ping successfull! Power Usage :880.50254 Watts 
+04/06/2018 06:08:37 PM - INFO - Ping successfull! Power Usage :952.954852 Watts 
+04/06/2018 06:23:37 PM - INFO - Ping successfull! Power Usage :950.703016 Watts 
+04/06/2018 06:38:37 PM - INFO - Ping successfull! Power Usage :978.891357 Watts 
+04/06/2018 06:53:37 PM - INFO - Ping successfull! Power Usage :944.963594 Watts 
+04/06/2018 07:08:37 PM - INFO - Ping successfull! Power Usage :976.717138 Watts 
+04/06/2018 07:23:37 PM - INFO - Ping successfull! Power Usage :958.773408 Watts 
+04/06/2018 07:38:37 PM - INFO - Ping successfull! Power Usage :926.246325 Watts 
+04/06/2018 07:53:37 PM - INFO - Ping successfull! Power Usage :941.333566 Watts 
+04/06/2018 08:08:37 PM - INFO - Ping successfull! Power Usage :918.349632 Watts 
+04/06/2018 08:23:37 PM - INFO - Ping successfull! Power Usage :940.549608 Watts 
+04/06/2018 08:38:37 PM - INFO - Ping successfull! Power Usage :948.429286 Watts 
+04/06/2018 08:53:37 PM - INFO - Ping successfull! Power Usage :983.948969 Watts 
+04/06/2018 09:08:37 PM - INFO - Ping successfull! Power Usage :968.474365 Watts 
+04/06/2018 09:23:37 PM - INFO - Ping successfull! Power Usage :945.626872 Watts 
+04/06/2018 09:38:37 PM - INFO - Ping successfull! Power Usage :987.311721 Watts 
+04/06/2018 09:53:37 PM - INFO - Ping successfull! Power Usage :985.057906 Watts 
+04/06/2018 10:08:40 PM - INFO - Ping successfull! Power Usage :944.491755 Watts 
+04/06/2018 10:23:39 PM - INFO - Ping successfull! Power Usage :962.152514 Watts 
+04/06/2018 10:38:37 PM - INFO - Ping successfull! Power Usage :970.142716 Watts 
+04/06/2018 10:53:37 PM - INFO - Ping successfull! Power Usage :950.553781 Watts 
+04/06/2018 11:08:37 PM - INFO - Ping successfull! Power Usage :950.048904 Watts 
+04/06/2018 11:23:37 PM - INFO - Ping successfull! Power Usage :929.379718 Watts 
+04/06/2018 11:38:37 PM - INFO - Ping successfull! Power Usage :961.470441 Watts 
+04/06/2018 11:53:37 PM - INFO - Ping successfull! Power Usage :896.670626 Watts 
+04/07/2018 12:08:37 AM - INFO - Ping successfull! Power Usage :969.028306 Watts 
+04/07/2018 12:23:37 AM - INFO - Ping successfull! Power Usage :909.320527 Watts 
+04/07/2018 12:38:37 AM - INFO - Ping successfull! Power Usage :902.80783 Watts 
+04/07/2018 12:53:37 AM - INFO - Ping successfull! Power Usage :936.063411 Watts 
+04/07/2018 01:08:37 AM - INFO - Ping successfull! Power Usage :946.945713 Watts 
+04/07/2018 01:23:37 AM - INFO - Ping successfull! Power Usage :971.556387 Watts 
+04/07/2018 01:38:37 AM - INFO - Ping successfull! Power Usage :985.030077 Watts 
+04/07/2018 01:53:37 AM - INFO - Ping successfull! Power Usage :937.587145 Watts 
+04/07/2018 02:08:37 AM - INFO - Ping successfull! Power Usage :956.364424 Watts 
+04/07/2018 02:23:37 AM - INFO - Ping successfull! Power Usage :970.622996 Watts 
+04/07/2018 02:38:37 AM - INFO - Ping successfull! Power Usage :925.693571 Watts 
+04/07/2018 02:53:37 AM - INFO - Ping successfull! Power Usage :936.320532 Watts 
+04/07/2018 03:08:37 AM - INFO - Ping successfull! Power Usage :958.072013 Watts 
+04/07/2018 03:23:37 AM - INFO - Ping successfull! Power Usage :942.908737 Watts 
+04/07/2018 03:38:37 AM - INFO - Ping successfull! Power Usage :952.840502 Watts 
+04/07/2018 03:53:37 AM - INFO - Ping successfull! Power Usage :912.211373 Watts 
+04/07/2018 04:08:37 AM - INFO - Ping successfull! Power Usage :965.564526 Watts 
+04/07/2018 04:23:37 AM - INFO - Ping successfull! Power Usage :978.468251 Watts 
+04/07/2018 04:38:37 AM - INFO - Ping successfull! Power Usage :959.411034 Watts 
+04/07/2018 04:53:37 AM - INFO - Ping successfull! Power Usage :950.010721 Watts 
+04/07/2018 05:08:37 AM - INFO - Ping successfull! Power Usage :921.80352 Watts 
+04/07/2018 05:23:37 AM - INFO - Ping successfull! Power Usage :955.220668 Watts 
+04/07/2018 05:38:37 AM - INFO - Ping successfull! Power Usage :917.098385 Watts 
+04/07/2018 05:53:37 AM - INFO - Ping successfull! Power Usage :916.342322 Watts 
+04/07/2018 06:08:37 AM - INFO - Ping successfull! Power Usage :964.811101 Watts 
+04/07/2018 06:23:37 AM - INFO - Ping successfull! Power Usage :934.160097 Watts 
+04/07/2018 06:38:37 AM - INFO - Ping successfull! Power Usage :961.213122 Watts 
+04/07/2018 06:53:37 AM - INFO - Ping successfull! Power Usage :961.842505 Watts 
+04/07/2018 07:08:37 AM - INFO - Ping successfull! Power Usage :941.42002 Watts 
+04/07/2018 07:23:37 AM - INFO - Ping successfull! Power Usage :998.654981 Watts 
+04/07/2018 07:38:37 AM - INFO - Ping successfull! Power Usage :935.078715 Watts 
+04/07/2018 07:53:37 AM - INFO - Ping successfull! Power Usage :959.414001 Watts 
+04/07/2018 08:08:37 AM - INFO - Ping successfull! Power Usage :913.62168 Watts 
+04/07/2018 08:23:37 AM - INFO - Ping successfull! Power Usage :934.449003 Watts 
+04/07/2018 08:38:37 AM - INFO - Ping successfull! Power Usage :971.218879 Watts 
+04/07/2018 08:53:37 AM - INFO - Ping successfull! Power Usage :884.861528 Watts 
+04/07/2018 09:08:37 AM - INFO - Ping successfull! Power Usage :929.436827 Watts 
+04/07/2018 09:23:37 AM - INFO - Ping successfull! Power Usage :984.563052 Watts 
+04/07/2018 09:38:37 AM - INFO - Ping successfull! Power Usage :954.354542 Watts 
+04/07/2018 09:53:37 AM - INFO - Ping successfull! Power Usage :958.973354 Watts 
+04/07/2018 10:08:37 AM - INFO - Ping successfull! Power Usage :896.702015 Watts 
+04/07/2018 10:23:36 AM - INFO - Ping successfull! Power Usage :959.239114 Watts 
+04/07/2018 10:38:36 AM - INFO - Ping successfull! Power Usage :902.587506 Watts 
+04/07/2018 10:53:36 AM - INFO - Ping successfull! Power Usage :936.563937 Watts 
+04/07/2018 11:08:36 AM - INFO - Ping successfull! Power Usage :915.133873 Watts 
+04/07/2018 11:23:36 AM - INFO - Ping successfull! Power Usage :937.14597 Watts 
+04/07/2018 11:38:36 AM - INFO - Ping successfull! Power Usage :909.196615 Watts 
+04/07/2018 11:53:36 AM - INFO - Ping successfull! Power Usage :950.950575 Watts 
+04/07/2018 12:08:36 PM - INFO - Ping successfull! Power Usage :946.894144 Watts 
+04/07/2018 12:23:36 PM - INFO - Ping successfull! Power Usage :945.701193 Watts 
+04/07/2018 12:38:36 PM - INFO - Ping successfull! Power Usage :973.706403 Watts 
+04/07/2018 12:53:36 PM - INFO - Ping successfull! Power Usage :909.501085 Watts 
+04/07/2018 01:08:36 PM - INFO - Ping successfull! Power Usage :947.234884 Watts 
+04/07/2018 01:23:36 PM - INFO - Ping successfull! Power Usage :998.599587 Watts 
+04/07/2018 01:38:36 PM - INFO - Ping successfull! Power Usage :979.549359 Watts 
+04/07/2018 01:53:36 PM - INFO - Ping successfull! Power Usage :915.507322 Watts 
+04/07/2018 02:08:36 PM - INFO - Ping successfull! Power Usage :998.048613 Watts 
+04/07/2018 02:23:36 PM - INFO - Ping successfull! Power Usage :985.090681 Watts 
+04/07/2018 02:38:36 PM - INFO - Ping successfull! Power Usage :931.391447 Watts 
+04/07/2018 02:53:36 PM - INFO - Ping successfull! Power Usage :883.920355 Watts 
+04/07/2018 03:08:36 PM - INFO - Ping successfull! Power Usage :972.960561 Watts 
+04/07/2018 03:23:36 PM - INFO - Ping successfull! Power Usage :967.577244 Watts 
+04/07/2018 03:38:36 PM - INFO - Ping successfull! Power Usage :950.504718 Watts 
+04/07/2018 03:53:36 PM - INFO - Ping successfull! Power Usage :952.148472 Watts 
+04/07/2018 04:08:36 PM - INFO - Ping successfull! Power Usage :926.096365 Watts 
+04/07/2018 04:23:36 PM - INFO - Ping successfull! Power Usage :975.74906 Watts 
+04/07/2018 04:38:36 PM - INFO - Ping successfull! Power Usage :988.293713 Watts 
+04/07/2018 04:53:36 PM - INFO - Ping successfull! Power Usage :998.709979 Watts 
+04/07/2018 05:08:36 PM - INFO - Ping successfull! Power Usage :955.702729 Watts 
+04/07/2018 05:23:36 PM - INFO - Ping successfull! Power Usage :948.844676 Watts 
+04/07/2018 05:38:36 PM - INFO - Ping successfull! Power Usage :945.621333 Watts 
+04/07/2018 05:53:36 PM - INFO - Ping successfull! Power Usage :968.260702 Watts 
+04/07/2018 06:08:36 PM - INFO - Ping successfull! Power Usage :942.074726 Watts 
+04/07/2018 06:23:36 PM - INFO - Ping successfull! Power Usage :966.811355 Watts 
+04/07/2018 06:38:36 PM - INFO - Ping successfull! Power Usage :931.538307 Watts 
+04/07/2018 06:53:36 PM - INFO - Ping successfull! Power Usage :983.776127 Watts 
+04/07/2018 07:08:36 PM - INFO - Ping successfull! Power Usage :941.051913 Watts 
+04/07/2018 07:23:36 PM - INFO - Ping successfull! Power Usage :959.08012 Watts 
+04/07/2018 07:38:36 PM - INFO - Ping successfull! Power Usage :966.007283 Watts 
+04/07/2018 07:53:36 PM - INFO - Ping successfull! Power Usage :338.011409 Watts 
+04/07/2018 08:08:36 PM - INFO - Ping successfull! Power Usage :977.181987 Watts 
+04/07/2018 08:23:36 PM - INFO - Ping successfull! Power Usage :964.360298 Watts 
+04/07/2018 08:38:36 PM - INFO - Ping successfull! Power Usage :909.253988 Watts 
+04/07/2018 08:53:36 PM - INFO - Ping successfull! Power Usage :931.28389 Watts 
+04/07/2018 09:08:36 PM - INFO - Ping successfull! Power Usage :967.323882 Watts 
+04/07/2018 09:23:36 PM - INFO - Ping successfull! Power Usage :983.802637 Watts 
+04/07/2018 09:38:36 PM - INFO - Ping successfull! Power Usage :987.550311 Watts 
+04/07/2018 09:53:36 PM - INFO - Ping successfull! Power Usage :953.146159 Watts 
+04/07/2018 10:08:36 PM - INFO - Ping successfull! Power Usage :887.977907 Watts 
+04/07/2018 10:23:36 PM - INFO - Ping successfull! Power Usage :961.730068 Watts 
+04/07/2018 10:38:36 PM - INFO - Ping successfull! Power Usage :969.678527 Watts 
+04/07/2018 10:53:36 PM - INFO - Ping successfull! Power Usage :949.805104 Watts 
+04/07/2018 11:08:36 PM - INFO - Ping successfull! Power Usage :927.299472 Watts 
+04/07/2018 11:23:36 PM - INFO - Ping successfull! Power Usage :982.526001 Watts 
+04/07/2018 11:38:36 PM - INFO - Ping successfull! Power Usage :959.23674 Watts 
+04/07/2018 11:53:36 PM - INFO - Ping successfull! Power Usage :983.778369 Watts 
+04/08/2018 12:08:36 AM - INFO - Ping successfull! Power Usage :966.44061 Watts 
+04/08/2018 12:23:36 AM - INFO - Ping successfull! Power Usage :924.588063 Watts 
+04/08/2018 12:38:36 AM - INFO - Ping successfull! Power Usage :997.998824 Watts 
+04/08/2018 12:53:36 AM - INFO - Ping successfull! Power Usage :950.911403 Watts 
+04/08/2018 01:08:36 AM - INFO - Ping successfull! Power Usage :913.223964 Watts 
+04/08/2018 01:23:36 AM - INFO - Ping successfull! Power Usage :874.755336 Watts 
+04/08/2018 01:38:36 AM - INFO - Ping successfull! Power Usage :980.073163 Watts 
+04/08/2018 01:53:36 AM - INFO - Ping successfull! Power Usage :932.364537 Watts 
+04/08/2018 02:08:36 AM - INFO - Ping successfull! Power Usage :947.244907 Watts 
+04/08/2018 02:23:36 AM - INFO - Ping successfull! Power Usage :980.413375 Watts 
+04/08/2018 02:38:36 AM - INFO - Ping successfull! Power Usage :953.79249 Watts 
+04/08/2018 02:53:36 AM - INFO - Ping successfull! Power Usage :994.640755 Watts 
+04/08/2018 03:08:36 AM - INFO - Ping successfull! Power Usage :974.571408 Watts 
+04/08/2018 03:23:36 AM - INFO - Ping successfull! Power Usage :956.472706 Watts 
+04/08/2018 03:38:36 AM - INFO - Ping successfull! Power Usage :963.680863 Watts 
+04/08/2018 03:53:36 AM - INFO - Ping successfull! Power Usage :975.44769 Watts 
+04/08/2018 04:08:36 AM - INFO - Ping successfull! Power Usage :944.608412 Watts 
+04/08/2018 04:23:36 AM - INFO - Ping successfull! Power Usage :963.159367 Watts 
+04/08/2018 04:38:36 AM - INFO - Ping successfull! Power Usage :956.143837 Watts 
+04/08/2018 04:53:36 AM - INFO - Ping successfull! Power Usage :907.504853 Watts 
+04/08/2018 05:08:36 AM - INFO - Ping successfull! Power Usage :930.296952 Watts 
+04/08/2018 05:23:36 AM - INFO - Ping successfull! Power Usage :961.580833 Watts 
+04/08/2018 05:38:36 AM - INFO - Ping successfull! Power Usage :987.120743 Watts 
+04/08/2018 05:53:36 AM - INFO - Ping successfull! Power Usage :914.468419 Watts 
+04/08/2018 06:08:36 AM - INFO - Ping successfull! Power Usage :961.486136 Watts 
+04/08/2018 06:23:36 AM - INFO - Ping successfull! Power Usage :942.542806 Watts 
+04/08/2018 06:38:36 AM - INFO - Ping successfull! Power Usage :896.047904 Watts 
+04/08/2018 06:53:36 AM - INFO - Ping successfull! Power Usage :927.290701 Watts 
+04/08/2018 07:08:36 AM - INFO - Ping successfull! Power Usage :948.667481 Watts 
+04/08/2018 07:23:36 AM - INFO - Ping successfull! Power Usage :949.436601 Watts 
+04/08/2018 07:38:36 AM - INFO - Ping successfull! Power Usage :941.721391 Watts 
+04/08/2018 07:53:36 AM - INFO - Ping successfull! Power Usage :924.982416 Watts 
+04/08/2018 08:08:36 AM - INFO - Ping successfull! Power Usage :966.740793 Watts 
+04/08/2018 08:23:36 AM - INFO - Ping successfull! Power Usage :967.771717 Watts 
+04/08/2018 08:38:36 AM - INFO - Ping successfull! Power Usage :971.098792 Watts 
+04/08/2018 08:53:36 AM - INFO - Ping successfull! Power Usage :970.315163 Watts 
+04/08/2018 09:08:36 AM - INFO - Ping successfull! Power Usage :897.135606 Watts 
+04/08/2018 09:23:36 AM - INFO - Ping successfull! Power Usage :1008.830019 Watts 
+04/08/2018 09:38:36 AM - INFO - Ping successfull! Power Usage :820.596001 Watts 
+04/08/2018 09:53:36 AM - INFO - Ping successfull! Power Usage :938.168387 Watts 
+04/08/2018 10:08:36 AM - INFO - Ping successfull! Power Usage :957.084679 Watts 
+04/08/2018 10:23:36 AM - INFO - Ping successfull! Power Usage :988.841323 Watts 
+04/08/2018 10:38:36 AM - INFO - Ping successfull! Power Usage :941.833102 Watts 
+04/08/2018 10:53:36 AM - INFO - Ping successfull! Power Usage :990.095076 Watts 
+04/08/2018 11:08:36 AM - INFO - Ping successfull! Power Usage :984.661839 Watts 
+04/08/2018 11:23:36 AM - INFO - Ping successfull! Power Usage :969.300726 Watts 
+04/08/2018 11:38:36 AM - INFO - Ping successfull! Power Usage :948.827926 Watts 
+04/08/2018 11:53:36 AM - INFO - Ping successfull! Power Usage :873.407743 Watts 
+04/08/2018 12:08:36 PM - INFO - Ping successfull! Power Usage :960.26186 Watts 
+04/08/2018 12:23:36 PM - INFO - Ping successfull! Power Usage :988.87911 Watts 
+04/08/2018 12:38:36 PM - INFO - Ping successfull! Power Usage :982.457945 Watts 
+04/08/2018 12:53:36 PM - INFO - Ping successfull! Power Usage :895.814391 Watts 
+04/08/2018 01:08:37 PM - INFO - Ping successfull! Power Usage :980.335098 Watts 
+04/08/2018 01:23:36 PM - INFO - Ping successfull! Power Usage :912.73155 Watts 
+04/08/2018 01:38:36 PM - INFO - Ping successfull! Power Usage :918.601544 Watts 
+04/08/2018 01:53:36 PM - INFO - Ping successfull! Power Usage :962.925459 Watts 
+04/08/2018 02:08:38 PM - INFO - Ping successfull! Power Usage :992.851064 Watts 
+04/08/2018 02:23:36 PM - INFO - Ping successfull! Power Usage :903.97559 Watts 
+04/08/2018 02:38:36 PM - INFO - Ping successfull! Power Usage :948.623165 Watts 
+04/08/2018 02:53:37 PM - INFO - Ping successfull! Power Usage :957.055927 Watts 
+04/08/2018 03:08:37 PM - INFO - Ping successfull! Power Usage :978.236849 Watts 
+04/08/2018 03:23:36 PM - INFO - Ping successfull! Power Usage :993.572968 Watts 
+04/08/2018 03:38:36 PM - INFO - Ping successfull! Power Usage :968.445283 Watts 
+04/08/2018 03:53:43 PM - ERROR - Ping Failed! We had to restart the rig
+04/08/2018 04:08:36 PM - INFO - Ping successfull! Power Usage :942.74605 Watts 
+04/08/2018 04:23:36 PM - INFO - Ping successfull! Power Usage :943.113827 Watts 
+04/08/2018 04:38:37 PM - INFO - Ping successfull! Power Usage :934.364 Watts 
+04/08/2018 04:53:36 PM - INFO - Ping successfull! Power Usage :985.825312 Watts 
+04/08/2018 05:08:37 PM - INFO - Ping successfull! Power Usage :962.4585 Watts 
+04/08/2018 05:23:36 PM - INFO - Ping successfull! Power Usage :903.254478 Watts 
+04/08/2018 05:38:37 PM - INFO - Ping successfull! Power Usage :991.102721 Watts 
+04/08/2018 05:53:37 PM - INFO - Ping successfull! Power Usage :967.196014 Watts 
+04/08/2018 06:08:37 PM - INFO - Ping successfull! Power Usage :977.298117 Watts 
+04/08/2018 06:23:37 PM - INFO - Ping successfull! Power Usage :968.329087 Watts 
+04/08/2018 06:38:37 PM - INFO - Ping successfull! Power Usage :954.56893 Watts 
+04/08/2018 06:53:37 PM - INFO - Ping successfull! Power Usage :968.255294 Watts 
+04/08/2018 07:08:37 PM - INFO - Ping successfull! Power Usage :942.093982 Watts 
+04/08/2018 07:23:37 PM - INFO - Ping successfull! Power Usage :942.036148 Watts 
+04/08/2018 07:38:37 PM - INFO - Ping successfull! Power Usage :965.716069 Watts 
+04/08/2018 07:53:37 PM - INFO - Ping successfull! Power Usage :949.689238 Watts 
+04/08/2018 08:08:37 PM - INFO - Ping successfull! Power Usage :1006.305565 Watts 
+04/08/2018 08:23:37 PM - INFO - Ping successfull! Power Usage :956.247767 Watts 
+04/08/2018 08:38:37 PM - INFO - Ping successfull! Power Usage :978.210405 Watts 
+04/08/2018 08:53:37 PM - INFO - Ping successfull! Power Usage :885.351238 Watts 
+04/08/2018 09:08:37 PM - INFO - Ping successfull! Power Usage :959.062842 Watts 
+04/08/2018 09:23:37 PM - INFO - Ping successfull! Power Usage :933.453888 Watts 
+04/08/2018 09:38:37 PM - INFO - Ping successfull! Power Usage :942.830591 Watts 
+04/08/2018 09:53:37 PM - INFO - Ping successfull! Power Usage :919.825819 Watts 
+04/08/2018 10:08:37 PM - INFO - Ping successfull! Power Usage :936.732889 Watts 
+04/08/2018 10:23:37 PM - INFO - Ping successfull! Power Usage :941.382629 Watts 
+04/08/2018 10:38:37 PM - INFO - Ping successfull! Power Usage :982.876368 Watts 
+04/08/2018 10:53:37 PM - INFO - Ping successfull! Power Usage :960.336906 Watts 
+04/08/2018 11:08:37 PM - INFO - Ping successfull! Power Usage :987.360784 Watts 
+04/08/2018 11:23:37 PM - INFO - Ping successfull! Power Usage :965.046657 Watts 
+04/08/2018 11:38:37 PM - INFO - Ping successfull! Power Usage :954.523362 Watts 
+04/08/2018 11:53:37 PM - INFO - Ping successfull! Power Usage :932.410698 Watts 
+04/09/2018 12:08:37 AM - INFO - Ping successfull! Power Usage :955.59194 Watts 
+04/09/2018 12:23:37 AM - INFO - Ping successfull! Power Usage :944.966364 Watts 
+04/09/2018 12:38:37 AM - INFO - Ping successfull! Power Usage :968.947523 Watts 
+04/09/2018 12:53:37 AM - INFO - Ping successfull! Power Usage :909.541641 Watts 
+04/09/2018 01:08:37 AM - INFO - Ping successfull! Power Usage :978.109904 Watts 
+04/09/2018 01:23:37 AM - INFO - Ping successfull! Power Usage :923.211849 Watts 
+04/09/2018 01:38:37 AM - INFO - Ping successfull! Power Usage :968.584098 Watts 
+04/09/2018 01:53:37 AM - INFO - Ping successfull! Power Usage :970.387571 Watts 
+04/09/2018 02:08:37 AM - INFO - Ping successfull! Power Usage :998.749349 Watts 
+04/09/2018 02:23:37 AM - INFO - Ping successfull! Power Usage :925.585222 Watts 
+04/09/2018 02:38:37 AM - INFO - Ping successfull! Power Usage :1003.667421 Watts 
+04/09/2018 02:53:37 AM - INFO - Ping successfull! Power Usage :933.705271 Watts 
+04/09/2018 03:08:37 AM - INFO - Ping successfull! Power Usage :974.020303 Watts 
+04/09/2018 03:23:37 AM - INFO - Ping successfull! Power Usage :983.161054 Watts 
+04/09/2018 03:38:37 AM - INFO - Ping successfull! Power Usage :906.246682 Watts 
+04/09/2018 03:53:37 AM - INFO - Ping successfull! Power Usage :942.039511 Watts 
+04/09/2018 04:08:37 AM - INFO - Ping successfull! Power Usage :1003.750116 Watts 
+04/09/2018 04:23:37 AM - INFO - Ping successfull! Power Usage :968.814511 Watts 
+04/09/2018 04:38:37 AM - INFO - Ping successfull! Power Usage :961.657132 Watts 
+04/09/2018 04:53:37 AM - INFO - Ping successfull! Power Usage :967.791105 Watts 
+04/09/2018 05:08:37 AM - INFO - Ping successfull! Power Usage :969.265973 Watts 
+04/09/2018 05:23:37 AM - INFO - Ping successfull! Power Usage :988.280194 Watts 
+04/09/2018 05:38:37 AM - INFO - Ping successfull! Power Usage :965.087741 Watts 
+04/09/2018 05:53:37 AM - INFO - Ping successfull! Power Usage :988.84495 Watts 
+04/09/2018 06:08:37 AM - INFO - Ping successfull! Power Usage :968.89259 Watts 
+04/09/2018 06:23:37 AM - INFO - Ping successfull! Power Usage :935.285652 Watts 
+04/09/2018 06:38:37 AM - INFO - Ping successfull! Power Usage :905.094749 Watts 
+04/09/2018 06:53:37 AM - INFO - Ping successfull! Power Usage :933.113742 Watts 
+04/09/2018 07:08:37 AM - INFO - Ping successfull! Power Usage :974.313826 Watts 
+04/09/2018 07:23:37 AM - INFO - Ping successfull! Power Usage :915.426341 Watts 
+04/09/2018 07:38:44 AM - ERROR - Ping Failed! We had to restart the rig
+04/09/2018 07:53:37 AM - INFO - Ping successfull! Power Usage :1002.965631 Watts 
+04/09/2018 08:08:37 AM - INFO - Ping successfull! Power Usage :947.853385 Watts 
+04/09/2018 08:23:37 AM - INFO - Ping successfull! Power Usage :955.448245 Watts 
+04/09/2018 08:38:37 AM - INFO - Ping successfull! Power Usage :922.901181 Watts 
+04/09/2018 08:53:37 AM - INFO - Ping successfull! Power Usage :953.978851 Watts 
+04/09/2018 09:08:37 AM - INFO - Ping successfull! Power Usage :936.624474 Watts 
+04/09/2018 09:23:37 AM - INFO - Ping successfull! Power Usage :981.621098 Watts 
+04/09/2018 09:38:37 AM - INFO - Ping successfull! Power Usage :948.48501 Watts 
+04/09/2018 09:53:37 AM - INFO - Ping successfull! Power Usage :992.176773 Watts 
+04/09/2018 10:08:37 AM - INFO - Ping successfull! Power Usage :1006.863331 Watts 
+04/09/2018 10:23:37 AM - INFO - Ping successfull! Power Usage :965.260584 Watts 
+04/09/2018 10:38:37 AM - INFO - Ping successfull! Power Usage :960.002695 Watts 
+04/09/2018 10:53:37 AM - INFO - Ping successfull! Power Usage :982.328956 Watts 
+04/09/2018 11:08:37 AM - INFO - Ping successfull! Power Usage :959.024132 Watts 
+04/09/2018 11:23:37 AM - INFO - Ping successfull! Power Usage :973.192491 Watts 
+04/09/2018 11:38:37 AM - INFO - Ping successfull! Power Usage :968.737883 Watts 
+04/09/2018 11:53:37 AM - INFO - Ping successfull! Power Usage :939.060825 Watts 
+04/09/2018 12:08:37 PM - INFO - Ping successfull! Power Usage :920.79759 Watts 
+04/09/2018 12:23:37 PM - INFO - Ping successfull! Power Usage :918.35748 Watts 
+04/09/2018 12:38:37 PM - INFO - Ping successfull! Power Usage :955.070181 Watts 
+04/09/2018 12:53:37 PM - INFO - Ping successfull! Power Usage :984.278037 Watts 
+04/09/2018 01:08:37 PM - INFO - Ping successfull! Power Usage :983.852755 Watts 
+04/09/2018 01:23:37 PM - INFO - Ping successfull! Power Usage :1005.34296 Watts 
+04/09/2018 01:38:37 PM - INFO - Ping successfull! Power Usage :980.592285 Watts 
+04/09/2018 01:53:37 PM - INFO - Ping successfull! Power Usage :975.216486 Watts 
+04/09/2018 02:08:37 PM - INFO - Ping successfull! Power Usage :1001.153188 Watts 
+04/09/2018 02:23:37 PM - INFO - Ping successfull! Power Usage :916.947239 Watts 
+04/09/2018 02:38:37 PM - INFO - Ping successfull! Power Usage :969.682616 Watts 
+04/09/2018 02:53:37 PM - INFO - Ping successfull! Power Usage :990.269436 Watts 
+04/09/2018 03:08:36 PM - INFO - Ping successfull! Power Usage :974.76021 Watts 
+04/09/2018 03:23:36 PM - INFO - Ping successfull! Power Usage :999.160386 Watts 
+04/09/2018 03:38:36 PM - INFO - Ping successfull! Power Usage :1007.006036 Watts 
+04/09/2018 03:53:36 PM - INFO - Ping successfull! Power Usage :967.533259 Watts 
+04/09/2018 04:08:36 PM - INFO - Ping successfull! Power Usage :973.04385 Watts 
+04/09/2018 04:23:36 PM - INFO - Ping successfull! Power Usage :987.26635 Watts 
+04/09/2018 04:38:36 PM - INFO - Ping successfull! Power Usage :993.233415 Watts 
+04/09/2018 04:53:36 PM - INFO - Ping successfull! Power Usage :100.218339 Watts 
+04/09/2018 05:08:36 PM - INFO - Ping successfull! Power Usage :114.742209 Watts 
+04/09/2018 05:23:36 PM - INFO - Ping successfull! Power Usage :136.825659 Watts 
+04/09/2018 05:38:36 PM - INFO - Ping successfull! Power Usage :146.517515 Watts 
+04/09/2018 05:53:36 PM - INFO - Ping successfull! Power Usage :147.216272 Watts 
+04/09/2018 06:08:36 PM - INFO - Ping successfull! Power Usage :89.347907 Watts 
+04/09/2018 06:23:36 PM - INFO - Ping successfull! Power Usage :946.304395 Watts 
+04/09/2018 06:38:36 PM - INFO - Ping successfull! Power Usage :1000.585201 Watts 
+04/09/2018 06:53:36 PM - INFO - Ping successfull! Power Usage :980.988221 Watts 
+04/09/2018 07:08:36 PM - INFO - Ping successfull! Power Usage :986.676073 Watts 
+04/09/2018 07:23:36 PM - INFO - Ping successfull! Power Usage :935.610103 Watts 
+04/09/2018 07:38:36 PM - INFO - Ping successfull! Power Usage :990.140051 Watts 
+04/09/2018 07:53:36 PM - INFO - Ping successfull! Power Usage :951.98163 Watts 
+04/09/2018 08:08:36 PM - INFO - Ping successfull! Power Usage :1006.500301 Watts 
+04/09/2018 08:23:36 PM - INFO - Ping successfull! Power Usage :985.951268 Watts 
+04/09/2018 08:38:36 PM - INFO - Ping successfull! Power Usage :990.737054 Watts 
+04/09/2018 08:53:36 PM - INFO - Ping successfull! Power Usage :1008.18204 Watts 
+04/09/2018 09:08:36 PM - INFO - Ping successfull! Power Usage :961.889985 Watts 
+04/09/2018 09:23:36 PM - INFO - Ping successfull! Power Usage :962.569156 Watts 
+04/09/2018 09:38:36 PM - INFO - Ping successfull! Power Usage :1001.440578 Watts 
+04/09/2018 09:53:36 PM - INFO - Ping successfull! Power Usage :975.801223 Watts 
+04/09/2018 10:08:36 PM - INFO - Ping successfull! Power Usage :954.810818 Watts 
+04/09/2018 10:23:36 PM - INFO - Ping successfull! Power Usage :960.328136 Watts 
+04/09/2018 10:38:36 PM - INFO - Ping successfull! Power Usage :1005.456584 Watts 
+04/09/2018 10:53:36 PM - INFO - Ping successfull! Power Usage :940.500412 Watts 
+04/09/2018 11:08:36 PM - INFO - Ping successfull! Power Usage :162.084509 Watts 
+04/09/2018 11:23:36 PM - INFO - Ping successfull! Power Usage :978.636478 Watts 
+04/09/2018 11:38:36 PM - INFO - Ping successfull! Power Usage :974.286393 Watts 
+04/09/2018 11:53:36 PM - INFO - Ping successfull! Power Usage :982.994476 Watts 
+04/10/2018 12:08:36 AM - INFO - Ping successfull! Power Usage :984.073013 Watts 
+04/10/2018 12:23:36 AM - INFO - Ping successfull! Power Usage :919.70171 Watts 
+04/10/2018 12:38:36 AM - INFO - Ping successfull! Power Usage :972.172712 Watts 
+04/10/2018 12:53:36 AM - INFO - Ping successfull! Power Usage :990.227231 Watts 
+04/10/2018 01:08:36 AM - INFO - Ping successfull! Power Usage :979.585497 Watts 
+04/10/2018 01:23:36 AM - INFO - Ping successfull! Power Usage :981.20861 Watts 
+04/10/2018 01:38:36 AM - INFO - Ping successfull! Power Usage :983.817738 Watts 
+04/10/2018 01:53:36 AM - INFO - Ping successfull! Power Usage :981.437836 Watts 
+04/10/2018 02:08:36 AM - INFO - Ping successfull! Power Usage :998.550787 Watts 
+04/10/2018 02:23:36 AM - INFO - Ping successfull! Power Usage :992.012701 Watts 
+04/10/2018 02:38:36 AM - INFO - Ping successfull! Power Usage :966.017307 Watts 
+04/10/2018 02:53:36 AM - INFO - Ping successfull! Power Usage :975.451515 Watts 
+04/10/2018 03:08:36 AM - INFO - Ping successfull! Power Usage :938.275746 Watts 
+04/10/2018 03:23:36 AM - INFO - Ping successfull! Power Usage :907.627512 Watts 
+04/10/2018 03:38:36 AM - INFO - Ping successfull! Power Usage :968.420224 Watts 
+04/10/2018 03:53:36 AM - INFO - Ping successfull! Power Usage :984.650166 Watts 
+04/10/2018 04:08:36 AM - INFO - Ping successfull! Power Usage :336.874182 Watts 
+04/10/2018 04:23:36 AM - INFO - Ping successfull! Power Usage :988.710685 Watts 
+04/10/2018 04:38:36 AM - INFO - Ping successfull! Power Usage :974.8708 Watts 
+04/10/2018 04:53:36 AM - INFO - Ping successfull! Power Usage :988.879308 Watts 
+04/10/2018 05:08:36 AM - INFO - Ping successfull! Power Usage :976.914513 Watts 
+04/10/2018 05:23:36 AM - INFO - Ping successfull! Power Usage :967.181308 Watts 
+04/10/2018 05:38:36 AM - INFO - Ping successfull! Power Usage :998.379065 Watts 
+04/10/2018 05:53:36 AM - INFO - Ping successfull! Power Usage :996.945216 Watts 
+04/10/2018 06:08:36 AM - INFO - Ping successfull! Power Usage :978.378302 Watts 
+04/10/2018 06:23:36 AM - INFO - Ping successfull! Power Usage :964.522062 Watts 
+04/10/2018 06:38:36 AM - INFO - Ping successfull! Power Usage :984.830131 Watts 
+04/10/2018 06:53:36 AM - INFO - Ping successfull! Power Usage :947.407726 Watts 
+04/10/2018 07:08:36 AM - INFO - Ping successfull! Power Usage :970.343784 Watts 
+04/10/2018 07:23:36 AM - INFO - Ping successfull! Power Usage :1000.96287 Watts 
+04/10/2018 07:38:36 AM - INFO - Ping successfull! Power Usage :984.444219 Watts 
+04/10/2018 07:53:36 AM - INFO - Ping successfull! Power Usage :977.59553 Watts 
+04/10/2018 08:08:36 AM - INFO - Ping successfull! Power Usage :964.476428 Watts 
+04/10/2018 08:23:36 AM - INFO - Ping successfull! Power Usage :958.929764 Watts 
+04/10/2018 08:38:36 AM - INFO - Ping successfull! Power Usage :985.78469 Watts 
+04/10/2018 08:53:36 AM - INFO - Ping successfull! Power Usage :963.198671 Watts 
+04/10/2018 09:08:36 AM - INFO - Ping successfull! Power Usage :939.314187 Watts 
+04/10/2018 09:23:36 AM - INFO - Ping successfull! Power Usage :961.909571 Watts 
+04/10/2018 09:38:36 AM - INFO - Ping successfull! Power Usage :983.635069 Watts 
+04/10/2018 09:53:36 AM - INFO - Ping successfull! Power Usage :946.260805 Watts 
+04/10/2018 10:08:36 AM - INFO - Ping successfull! Power Usage :998.873326 Watts 
+04/10/2018 10:23:36 AM - INFO - Ping successfull! Power Usage :1009.164889 Watts 
+04/10/2018 10:38:36 AM - INFO - Ping successfull! Power Usage :940.418376 Watts 
+04/10/2018 10:53:36 AM - INFO - Ping successfull! Power Usage :900.482992 Watts 
+04/10/2018 11:08:36 AM - INFO - Ping successfull! Power Usage :985.646732 Watts 
+04/10/2018 11:23:36 AM - INFO - Ping successfull! Power Usage :867.395835 Watts 
+04/10/2018 11:38:36 AM - INFO - Ping successfull! Power Usage :1015.072867 Watts 
+04/10/2018 11:53:36 AM - INFO - Ping successfull! Power Usage :979.214818 Watts 
+04/10/2018 12:08:36 PM - INFO - Ping successfull! Power Usage :680.351867 Watts 
+04/10/2018 12:23:36 PM - INFO - Ping successfull! Power Usage :88.24873 Watts 
+04/10/2018 12:38:36 PM - INFO - Ping successfull! Power Usage :678.003421 Watts 
+04/10/2018 12:53:36 PM - INFO - Ping successfull! Power Usage :964.981108 Watts 
+04/10/2018 01:08:36 PM - INFO - Ping successfull! Power Usage :948.311639 Watts 
+04/10/2018 01:23:36 PM - INFO - Ping successfull! Power Usage :970.432151 Watts 
+04/10/2018 01:38:36 PM - INFO - Ping successfull! Power Usage :1005.814074 Watts 
+04/10/2018 01:53:36 PM - INFO - Ping successfull! Power Usage :955.323872 Watts 
+04/10/2018 02:08:36 PM - INFO - Ping successfull! Power Usage :986.608809 Watts 
+04/10/2018 02:23:36 PM - INFO - Ping successfull! Power Usage :992.803847 Watts 
+04/10/2018 02:38:38 PM - INFO - Ping successfull! Power Usage :1010.127164 Watts 
+04/10/2018 02:53:36 PM - INFO - Ping successfull! Power Usage :978.941541 Watts 
+04/10/2018 03:08:36 PM - INFO - Ping successfull! Power Usage :991.887471 Watts 
+04/10/2018 03:23:36 PM - INFO - Ping successfull! Power Usage :1000.783103 Watts 
+04/10/2018 03:38:36 PM - INFO - Ping successfull! Power Usage :964.703873 Watts 
+04/10/2018 03:53:36 PM - INFO - Ping successfull! Power Usage :956.550522 Watts 
+04/10/2018 04:08:36 PM - INFO - Ping successfull! Power Usage :979.561295 Watts 
+04/10/2018 04:23:36 PM - INFO - Ping successfull! Power Usage :925.0204 Watts 
+04/10/2018 04:38:36 PM - INFO - Ping successfull! Power Usage :960.486009 Watts 
+04/10/2018 04:53:36 PM - INFO - Ping successfull! Power Usage :975.318503 Watts 
+04/10/2018 05:04:46 PM - INFO - Ping successfull! Power Usage :929.520445 Watts 
+04/10/2018 05:08:36 PM - INFO - Ping successfull! Power Usage :987.656087 Watts 
+04/10/2018 05:14:26 PM - INFO - Ping successfull! Power Usage :957.25561 Watts 
+04/10/2018 05:16:59 PM - INFO - Ping successfull! Power Usage :991.92961 Watts 
+04/10/2018 05:23:36 PM - INFO - Ping successfull! Power Usage :1010.746852 Watts 
+04/10/2018 05:30:02 PM - INFO - Ping successfull! Power Usage :1014.521366 Watts 
+04/10/2018 05:40:05 PM - INFO - Ping successfull! Power Usage :1001.967086 Watts 
+04/10/2018 05:53:36 PM - INFO - Ping successfull! Power Usage :981.31498 Watts 
+04/10/2018 06:08:37 PM - INFO - Ping successfull! Power Usage :986.037195 Watts 
+04/10/2018 06:23:36 PM - INFO - Ping successfull! Power Usage :995.064652 Watts 
+04/10/2018 06:38:36 PM - INFO - Ping successfull! Power Usage :983.462029 Watts 
+04/10/2018 06:53:36 PM - INFO - Ping successfull! Power Usage :1004.452764 Watts 
+04/10/2018 07:08:36 PM - INFO - Ping successfull! Power Usage :991.491403 Watts 
+04/10/2018 07:23:36 PM - INFO - Ping successfull! Power Usage :892.855951 Watts 
+04/10/2018 07:38:36 PM - INFO - Ping successfull! Power Usage :984.650694 Watts 
+04/10/2018 07:53:36 PM - INFO - Ping successfull! Power Usage :988.161229 Watts 
+04/10/2018 08:08:36 PM - INFO - Ping successfull! Power Usage :996.24448 Watts 
+04/10/2018 08:23:36 PM - INFO - Ping successfull! Power Usage :963.335771 Watts 
+04/10/2018 08:38:36 PM - INFO - Ping successfull! Power Usage :996.164884 Watts 
+04/10/2018 08:53:36 PM - INFO - Ping successfull! Power Usage :1014.452585 Watts 
+04/10/2018 09:08:36 PM - INFO - Ping successfull! Power Usage :1004.205997 Watts 
+04/10/2018 09:23:37 PM - INFO - Ping successfull! Power Usage :950.296001 Watts 
+04/10/2018 09:38:36 PM - INFO - Ping successfull! Power Usage :997.504564 Watts 
+04/10/2018 09:53:37 PM - INFO - Ping successfull! Power Usage :976.791129 Watts 
+04/10/2018 10:08:36 PM - INFO - Ping successfull! Power Usage :980.725561 Watts 
+04/10/2018 10:23:36 PM - INFO - Ping successfull! Power Usage :961.391504 Watts 
+04/10/2018 10:38:37 PM - INFO - Ping successfull! Power Usage :982.913759 Watts 
+04/10/2018 10:53:37 PM - INFO - Ping successfull! Power Usage :1004.347318 Watts 
+04/10/2018 11:08:36 PM - INFO - Ping successfull! Power Usage :975.620599 Watts 
+04/10/2018 11:23:36 PM - INFO - Ping successfull! Power Usage :986.734369 Watts 
+04/10/2018 11:38:37 PM - INFO - Ping successfull! Power Usage :966.620443 Watts 
+04/10/2018 11:53:36 PM - INFO - Ping successfull! Power Usage :975.380228 Watts 
+04/11/2018 12:08:37 AM - INFO - Ping successfull! Power Usage :970.598069 Watts 
+04/11/2018 12:23:37 AM - INFO - Ping successfull! Power Usage :962.717797 Watts 
+04/11/2018 12:38:37 AM - INFO - Ping successfull! Power Usage :938.441269 Watts 
+04/11/2018 12:53:37 AM - INFO - Ping successfull! Power Usage :957.140403 Watts 
+04/11/2018 01:08:37 AM - INFO - Ping successfull! Power Usage :987.760413 Watts 
+04/11/2018 01:23:37 AM - INFO - Ping successfull! Power Usage :956.489457 Watts 
+04/11/2018 01:38:37 AM - INFO - Ping successfull! Power Usage :992.091572 Watts 
+04/11/2018 01:53:37 AM - INFO - Ping successfull! Power Usage :996.141276 Watts 
+04/11/2018 02:08:37 AM - INFO - Ping successfull! Power Usage :971.121016 Watts 
+04/11/2018 02:23:37 AM - INFO - Ping successfull! Power Usage :952.787482 Watts 
+04/11/2018 02:38:37 AM - INFO - Ping successfull! Power Usage :996.415872 Watts 
+04/11/2018 02:53:37 AM - INFO - Ping successfull! Power Usage :975.893745 Watts 
+04/11/2018 03:08:37 AM - INFO - Ping successfull! Power Usage :992.216868 Watts 
+04/11/2018 03:23:37 AM - INFO - Ping successfull! Power Usage :990.853052 Watts 
+04/11/2018 03:38:37 AM - INFO - Ping successfull! Power Usage :495.100162 Watts 
+04/11/2018 03:53:37 AM - INFO - Ping successfull! Power Usage :992.815718 Watts 
+04/11/2018 04:08:37 AM - INFO - Ping successfull! Power Usage :1002.65061 Watts 
+04/11/2018 04:23:37 AM - INFO - Ping successfull! Power Usage :971.107629 Watts 
+04/11/2018 04:38:37 AM - INFO - Ping successfull! Power Usage :984.110667 Watts 
+04/11/2018 04:53:37 AM - INFO - Ping successfull! Power Usage :969.584357 Watts 
+04/11/2018 05:08:37 AM - INFO - Ping successfull! Power Usage :981.246463 Watts 
+04/11/2018 05:23:37 AM - INFO - Ping successfull! Power Usage :946.001706 Watts 
+04/11/2018 05:38:37 AM - INFO - Ping successfull! Power Usage :978.595921 Watts 
+04/11/2018 05:53:37 AM - INFO - Ping successfull! Power Usage :971.251192 Watts 
+04/11/2018 06:08:37 AM - INFO - Ping successfull! Power Usage :986.225996 Watts 
+04/11/2018 06:23:37 AM - INFO - Ping successfull! Power Usage :915.242815 Watts 
+04/11/2018 06:38:37 AM - INFO - Ping successfull! Power Usage :958.465773 Watts 
+04/11/2018 06:53:37 AM - INFO - Ping successfull! Power Usage :1000.045307 Watts 
+04/11/2018 07:08:37 AM - INFO - Ping successfull! Power Usage :968.06735 Watts 
+04/11/2018 07:23:37 AM - INFO - Ping successfull! Power Usage :1022.231301 Watts 
+04/11/2018 07:38:37 AM - INFO - Ping successfull! Power Usage :944.633867 Watts 
+04/11/2018 07:53:37 AM - INFO - Ping successfull! Power Usage :999.104266 Watts 
+04/11/2018 08:08:37 AM - INFO - Ping successfull! Power Usage :992.198271 Watts 
+04/11/2018 08:23:37 AM - INFO - Ping successfull! Power Usage :987.914857 Watts 
+04/11/2018 08:38:37 AM - INFO - Ping successfull! Power Usage :953.822956 Watts 
+04/11/2018 08:53:37 AM - INFO - Ping successfull! Power Usage :1008.856133 Watts 
+04/11/2018 09:08:37 AM - INFO - Ping successfull! Power Usage :982.076055 Watts 
+04/11/2018 09:23:37 AM - INFO - Ping successfull! Power Usage :954.407232 Watts 
+04/11/2018 09:38:37 AM - INFO - Ping successfull! Power Usage :997.825652 Watts 
+04/11/2018 09:53:37 AM - INFO - Ping successfull! Power Usage :982.230697 Watts 
+04/11/2018 10:08:37 AM - INFO - Ping successfull! Power Usage :990.270293 Watts 
+04/11/2018 10:23:37 AM - INFO - Ping successfull! Power Usage :953.746394 Watts 
+04/11/2018 10:38:37 AM - INFO - Ping successfull! Power Usage :972.368174 Watts 
+04/11/2018 10:53:37 AM - INFO - Ping successfull! Power Usage :990.605559 Watts 
+04/11/2018 11:08:37 AM - INFO - Ping successfull! Power Usage :987.830711 Watts 
+04/11/2018 11:23:37 AM - INFO - Ping successfull! Power Usage :982.637316 Watts 
+04/11/2018 11:38:37 AM - INFO - Ping successfull! Power Usage :996.852892 Watts 
+04/11/2018 11:53:37 AM - INFO - Ping successfull! Power Usage :997.23465 Watts 
+04/11/2018 12:08:37 PM - INFO - Ping successfull! Power Usage :991.951372 Watts 
+04/11/2018 12:23:37 PM - INFO - Ping successfull! Power Usage :983.672724 Watts 
+04/11/2018 12:38:37 PM - INFO - Ping successfull! Power Usage :981.696342 Watts 
+04/11/2018 12:53:37 PM - INFO - Ping successfull! Power Usage :1004.028604 Watts 
+04/11/2018 01:08:37 PM - INFO - Ping successfull! Power Usage :983.515511 Watts 
+04/11/2018 01:23:37 PM - INFO - Ping successfull! Power Usage :986.859006 Watts 
+04/11/2018 01:38:37 PM - INFO - Ping successfull! Power Usage :381.047016 Watts 
+04/11/2018 01:53:37 PM - INFO - Ping successfull! Power Usage :997.895158 Watts 
+04/11/2018 02:08:37 PM - INFO - Ping successfull! Power Usage :973.358607 Watts 
+04/11/2018 02:23:37 PM - INFO - Ping successfull! Power Usage :990.025306 Watts 
+04/11/2018 02:38:37 PM - INFO - Ping successfull! Power Usage :996.342937 Watts 
+04/11/2018 02:53:37 PM - INFO - Ping successfull! Power Usage :952.374928 Watts 
+04/11/2018 03:08:37 PM - INFO - Ping successfull! Power Usage :931.108739 Watts 
+04/11/2018 03:23:37 PM - INFO - Ping successfull! Power Usage :565.704686 Watts 
+04/11/2018 03:38:37 PM - INFO - Ping successfull! Power Usage :978.369663 Watts 
+04/11/2018 03:53:37 PM - INFO - Ping successfull! Power Usage :949.393869 Watts 
+04/11/2018 04:08:43 PM - ERROR - Ping Failed! We had to restart the rig
+04/11/2018 04:23:37 PM - INFO - Ping successfull! Power Usage :994.630797 Watts 
+04/11/2018 04:38:37 PM - INFO - Ping successfull! Power Usage :973.12859 Watts 
+04/11/2018 10:10:30 PM - INFO - Ping successfull! Power Usage :1004.713248 Watts 
+04/11/2018 10:11:21 PM - INFO - Ping successfull! Power Usage :1003.075495 Watts 
+04/11/2018 10:23:36 PM - INFO - Ping successfull! Power Usage :975.003548 Watts 
+04/11/2018 10:38:36 PM - INFO - Ping successfull! Power Usage :974.261201 Watts 
+04/11/2018 10:53:36 PM - INFO - Ping successfull! Power Usage :972.907409 Watts 
+04/11/2018 11:08:36 PM - INFO - Ping successfull! Power Usage :990.169133 Watts 
+04/11/2018 11:23:36 PM - INFO - Ping successfull! Power Usage :981.176627 Watts 
+04/11/2018 11:38:43 PM - INFO - Ping successfull! Power Usage :977.825482 Watts 
+04/11/2018 11:53:36 PM - INFO - Ping successfull! Power Usage :1004.480791 Watts 
+04/12/2018 12:08:36 AM - INFO - Ping successfull! Power Usage :958.968474 Watts 
+04/12/2018 12:23:36 AM - INFO - Ping successfull! Power Usage :959.773535 Watts 
+04/12/2018 12:38:36 AM - INFO - Ping successfull! Power Usage :1002.684374 Watts 
+04/12/2018 12:53:36 AM - INFO - Ping successfull! Power Usage :990.022338 Watts 
+04/12/2018 01:08:36 AM - INFO - Ping successfull! Power Usage :989.464309 Watts 
+04/12/2018 01:23:36 AM - INFO - Ping successfull! Power Usage :978.649337 Watts 
+04/12/2018 01:38:36 AM - INFO - Ping successfull! Power Usage :986.945526 Watts 
+04/12/2018 01:53:36 AM - INFO - Ping successfull! Power Usage :938.908228 Watts 
+04/12/2018 02:08:36 AM - INFO - Ping successfull! Power Usage :964.231771 Watts 
+04/12/2018 02:23:36 AM - INFO - Ping successfull! Power Usage :948.040802 Watts 
+04/12/2018 02:38:36 AM - INFO - Ping successfull! Power Usage :982.004571 Watts 
+04/12/2018 02:53:36 AM - INFO - Ping successfull! Power Usage :1002.346074 Watts 
+04/12/2018 03:08:36 AM - INFO - Ping successfull! Power Usage :970.269727 Watts 
+04/12/2018 03:23:36 AM - INFO - Ping successfull! Power Usage :959.533956 Watts 
+04/12/2018 03:38:36 AM - INFO - Ping successfull! Power Usage :946.324838 Watts 
+04/12/2018 03:53:36 AM - INFO - Ping successfull! Power Usage :971.653986 Watts 
+04/12/2018 04:08:36 AM - INFO - Ping successfull! Power Usage :993.581607 Watts 
+04/12/2018 04:23:36 AM - INFO - Ping successfull! Power Usage :977.446164 Watts 
+04/12/2018 04:38:36 AM - INFO - Ping successfull! Power Usage :994.233477 Watts 
+04/12/2018 04:53:36 AM - INFO - Ping successfull! Power Usage :978.185741 Watts 
+04/12/2018 05:08:36 AM - INFO - Ping successfull! Power Usage :991.834121 Watts 
+04/12/2018 05:23:36 AM - INFO - Ping successfull! Power Usage :950.382653 Watts 
+04/12/2018 05:38:36 AM - INFO - Ping successfull! Power Usage :977.621117 Watts 
+04/12/2018 05:53:36 AM - INFO - Ping successfull! Power Usage :1001.68273 Watts 
+04/12/2018 06:08:36 AM - INFO - Ping successfull! Power Usage :994.244292 Watts 
+04/12/2018 06:23:36 AM - INFO - Ping successfull! Power Usage :965.417732 Watts 
+04/12/2018 06:38:36 AM - INFO - Ping successfull! Power Usage :952.180324 Watts 
+04/12/2018 06:53:36 AM - INFO - Ping successfull! Power Usage :962.668206 Watts 
+04/12/2018 07:08:36 AM - INFO - Ping successfull! Power Usage :1001.862826 Watts 
+04/12/2018 07:23:36 AM - INFO - Ping successfull! Power Usage :992.144724 Watts 
+04/12/2018 07:38:36 AM - INFO - Ping successfull! Power Usage :986.833155 Watts 
+04/12/2018 07:53:36 AM - INFO - Ping successfull! Power Usage :966.008932 Watts 
+04/12/2018 08:08:36 AM - INFO - Ping successfull! Power Usage :997.197852 Watts 
+04/12/2018 08:23:36 AM - INFO - Ping successfull! Power Usage :963.196297 Watts 
+04/12/2018 08:38:36 AM - INFO - Ping successfull! Power Usage :379.95206 Watts 
+04/12/2018 08:53:36 AM - INFO - Ping successfull! Power Usage :925.12255 Watts 
+04/12/2018 09:08:36 AM - INFO - Ping successfull! Power Usage :1002.250321 Watts 
+04/12/2018 09:23:36 AM - INFO - Ping successfull! Power Usage :960.576288 Watts 
+04/12/2018 09:38:36 AM - INFO - Ping successfull! Power Usage :963.998258 Watts 
+04/12/2018 09:53:36 AM - INFO - Ping successfull! Power Usage :964.999836 Watts 
+04/12/2018 10:08:36 AM - INFO - Ping successfull! Power Usage :1004.820607 Watts 
+04/12/2018 10:23:36 AM - INFO - Ping successfull! Power Usage :993.084709 Watts 
+04/12/2018 10:38:36 AM - INFO - Ping successfull! Power Usage :971.786602 Watts 
+04/12/2018 10:53:36 AM - INFO - Ping successfull! Power Usage :952.77614 Watts 
+04/12/2018 11:08:36 AM - INFO - Ping successfull! Power Usage :1011.531536 Watts 
+04/12/2018 11:23:36 AM - INFO - Ping successfull! Power Usage :997.703653 Watts 
+04/12/2018 11:38:36 AM - INFO - Ping successfull! Power Usage :987.155166 Watts 
+04/12/2018 11:53:36 AM - INFO - Ping successfull! Power Usage :941.144237 Watts 
+04/12/2018 12:08:36 PM - INFO - Ping successfull! Power Usage :1000.293393 Watts 
+04/12/2018 12:23:36 PM - INFO - Ping successfull! Power Usage :991.429085 Watts 
+04/12/2018 12:38:36 PM - INFO - Ping successfull! Power Usage :974.566462 Watts 
+04/12/2018 12:53:36 PM - INFO - Ping successfull! Power Usage :990.69663 Watts 
+04/12/2018 01:08:36 PM - INFO - Ping successfull! Power Usage :989.888403 Watts 
+04/12/2018 01:23:36 PM - INFO - Ping successfull! Power Usage :1009.166868 Watts 
+04/12/2018 01:38:36 PM - INFO - Ping successfull! Power Usage :1003.914584 Watts 
+04/12/2018 01:53:36 PM - INFO - Ping successfull! Power Usage :999.240773 Watts 
