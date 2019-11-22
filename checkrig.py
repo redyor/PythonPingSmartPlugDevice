@@ -9,5 +9,5 @@ import checking
 import globalconfig as cfg
 print(type(cfg.rig1['plugip']))
 checking.checkrigWattage(
-    cfg.rig1['plugip'], minwatt=200, waittime=10, retry=2, debug=True)
+    cfg.rig1['plugip'], minwatt=200, waittime=10, retry=2, debug=False)
 # checking.checkrig(cfg.rig2['host'],cfg.rig2['plugip']) either uncomment this line to check the second rig or create new file with same code

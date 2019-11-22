@@ -119,8 +119,8 @@ def docommand(command, ip):
         data = sock_tcp.recv(2048)
         sock_tcp.close()
 
-        print("Sent:     ", cmd)
-        print("Received: ", decrypt(data[4:]))
+        logging.info("Sent:     " + cmd)
+        logging.info("Received: " + decrypt(data[4:]))
         response = decrypt(data[4:])
         result = json.loads(response)
         return result

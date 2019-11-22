@@ -43,7 +43,7 @@ except getopt.error as err:
 # evaluate given options
 for currentArgument, currentValue in arguments:
     if currentArgument in ("-p", "--addr"):
-        print("By IP Address mode" + currentValue)
+        logging.info("Restart Script : By IP Address mode" + currentValue)
         checking.restart(currentValue, waitsec=1)
     elif currentArgument in ("-h", "--help"):
         printHelp()
@@ -52,7 +52,8 @@ for currentArgument, currentValue in arguments:
         for k, v in cfg.__dict__.items():
             if isinstance(v, dict) and not k.startswith('_'):
                 if k == currentValue:
-                    print("found it from -r value" + v['plugip'])
+                    logging.info(
+                        "Restart Script : found it from -r value" + v['plugip'])
                     checking.restart(v['plugip'], waitsec=1)
                 else:
-                    print(" Rig Not Found! Sorry!")
+                    logging.info("Restart Script : Rig Not Found! Sorry!")

@@ -35,6 +35,7 @@ def checkrig(ip, plugip):
 
 def restart(plugip, waitsec=3):
     # Below goes the off and on
+    logging.error('We restart the plug ' + plugip + '!!!! ')
     myplug.docommand("off", plugip)
     time.sleep(waitsec)  # wait x seconds
     myplug.docommand("on", plugip)
@@ -45,27 +46,27 @@ def checkrigWattage(plugip, minwatt=200, waittime=120, retry=3, debug=False):
     samplewattage = myplug.getplugstats(plugip)
     wattage = int(float(samplewattage))
 
-    print('Reporting Current Power ' + str(wattage) +
-          " Min Power " + str(minwatt) + " Wait Time in Secs " + str(waittime))
+    logging.info('Reporting Current Power ' + str(wattage) +
+                 " Min Power " + str(minwatt) + " Wait Time in Secs " + str(waittime))
 
     # retry = 2  # number of time to check before forcing restarting
     i = 1
     while i <= retry:
         if (wattage < minwatt):
-            print("The rig power is below : " + str(minwatt) +
-                  " we will retry " + str(retry) + " time(s) in " + str(waittime) + " secs ")
+            logging.info("The rig power is below : " + str(minwatt) +
+                         " we will retry " + str(retry) + " time(s) in " + str(waittime) + " secs ")
             time.sleep(waittime)
-            print("Attempt #:" + str(i) + " Time: " +
-                  str(waittime)+' sec later')
+            logging.info("Attempt #:" + str(i) + " Time: " +
+                         str(waittime)+' sec later')
             if i == (retry - 1):
                 if (debug):
-                    print("Debug is On Do nothing!")
+                    logging.info("Debug is On Do nothing!")
                 else:
-                    print("We tried" + str(i) + "times need to reboot the rig")
+                    logging.info("We tried" + str(i) +
+                                 "times need to reboot the rig")
                     restart(plugip, waitsec=3)
-                    print("Debbug is Off")
                 break
             i += 1
         else:
-            print("All is good nothing to do! Bye")
+            logging.info("All is good nothing to do! Bye")
             break
