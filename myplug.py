@@ -24,41 +24,47 @@ import argparse
 import json
 import logging
 import globalconfig as cfg
-logging.basicConfig(filename=cfg.logfilename,level=logging.DEBUG,format='%(asctime)s - %(levelname)s - %(message)s', datefmt='%m/%d/%Y %I:%M:%S %p')
+logging.basicConfig(filename=cfg.logfilename, level=logging.DEBUG,
+                    format='%(asctime)s - %(levelname)s - %(message)s', datefmt='%m/%d/%Y %I:%M:%S %p')
 #import logging
 #logging.basicConfig(filename='log-rig.txt',level=logging.DEBUG,format='%(asctime)s - %(levelname)s - %(message)s', datefmt='%m/%d/%Y %I:%M:%S %p')
 
 version = 0.1
 
 # Check if IP is valid
+
+
 def validIP(ip):
-	try:
-		socket.inet_pton(socket.AF_INET, ip)
-	except socket.error:
-		parser.error("Invalid IP Address.")
-	return ip
+    try:
+        socket.inet_pton(socket.AF_INET, ip)
+    except socket.error:
+        parser.error("Invalid IP Address.")
+    return ip
+
 
 # Predefined Smart Plug Commands
 # For a full list of commands, consult tplink_commands.txt
-commands = {'info'     : '{"system":{"get_sysinfo":{}}}',
-			'on'       : '{"system":{"set_relay_state":{"state":1}}}',
-			'off'      : '{"system":{"set_relay_state":{"state":0}}}',
-			'cloudinfo': '{"cnCloud":{"get_info":{}}}',
-			'wlanscan' : '{"netif":{"get_scaninfo":{"refresh":0}}}',
-			'time'     : '{"time":{"get_time":{}}}',
-			'schedule' : '{"schedule":{"get_rules":{}}}',
-			'countdown': '{"count_down":{"get_rules":{}}}',
-			'antitheft': '{"anti_theft":{"get_rules":{}}}',
-			'reboot'   : '{"system":{"reboot":{"delay":1}}}',
-			'reset'    : '{"system":{"reset":{"delay":1}}}',
-			'stats'		: '{"emeter":{"get_realtime":{}}}'
-}
+commands = {'info': '{"system":{"get_sysinfo":{}}}',
+            'on': '{"system":{"set_relay_state":{"state":1}}}',
+            'off': '{"system":{"set_relay_state":{"state":0}}}',
+            'cloudinfo': '{"cnCloud":{"get_info":{}}}',
+            'wlanscan': '{"netif":{"get_scaninfo":{"refresh":0}}}',
+                        'time': '{"time":{"get_time":{}}}',
+                        'schedule': '{"schedule":{"get_rules":{}}}',
+                        'countdown': '{"count_down":{"get_rules":{}}}',
+                        'antitheft': '{"anti_theft":{"get_rules":{}}}',
+                        'reboot': '{"system":{"reboot":{"delay":1}}}',
+                        'reset': '{"system":{"reset":{"delay":1}}}',
+                        'stats'		: '{"emeter":{"get_realtime":{}}}'
+            }
 
 # Encryption and Decryption of TP-Link Smart Home Protocol
 # XOR Autokey Cipher with starting key = 171
+
+
 def encrypt(string):
     key = 171
-    result = b"\0\0\0"+ chr(len(string)).encode('latin-1')
+    result = b"\0\0\0" + chr(len(string)).encode('latin-1')
     for i in string.encode('latin-1'):
         a = key ^ i
         key = a
@@ -83,39 +89,41 @@ def decrypt(string):
 # group.add_argument("-j", "--json", metavar="<JSON string>", help="Full JSON string of command to send")
 # args = parser.parse_args()
 
+
 # Set target IP, port and command to send
-#ip = "192.168.1.138"
+ip = "192.168.1.132"
 port = 9999
-#if args.command is None:
+# if args.command is None:
 #	cmd = args.json
-#else:
+# else:
 #	cmd = commands[args.command]
 #
+
+
 def getplugstats(ip):
-        result = docommand("stats",ip)
-        power = str( result['emeter']['get_realtime']['power'])
-        print ("Power : ", power)
-        #logging.info('Current Wattage' + power )
-        return power
+    result = docommand("stats", ip)
+    power = str(result['emeter']['get_realtime']['power'])
+    #print("Power : ", power)
+    #logging.info('Current Wattage' + power )
+    return power
 
 
-# Send Command to plug 
+# Send Command to plug
 def docommand(command, ip):
-        cmd = commands[command]
-        # Send command and receive reply
-        try:
-                sock_tcp = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-                sock_tcp.connect((ip, port))
-                sock_tcp.send(encrypt(cmd))
-                data = sock_tcp.recv(2048)
-                sock_tcp.close()
+    cmd = commands[command]
+    # Send command and receive reply
+    try:
+        sock_tcp = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+        sock_tcp.connect((ip, port))
+        sock_tcp.send(encrypt(cmd))
+        data = sock_tcp.recv(2048)
+        sock_tcp.close()
 
-                print ("Sent:     ", cmd)
-                print ("Received: ", decrypt(data[4:]))
-                response = decrypt(data[4:])
-                result =  json.loads(response)
-                return result        
-        except socket.error:
-                logging.error("Cound not connect to host " + ip + ":" + str(port))
-                quit("Cound not connect to host " + ip + ":" + str(port))
-                
+        print("Sent:     ", cmd)
+        print("Received: ", decrypt(data[4:]))
+        response = decrypt(data[4:])
+        result = json.loads(response)
+        return result
+    except socket.error:
+        logging.error("Cound not connect to host " + ip + ":" + str(port))
+        quit("Cound not connect to host " + ip + ":" + str(port))
