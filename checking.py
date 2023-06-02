@@ -8,7 +8,7 @@ import globalconfig as cfg
 logging.basicConfig(filename=cfg.logfilename, level=logging.DEBUG,
                     format='%(asctime)s - %(levelname)s - %(message)s', datefmt='%m/%d/%Y %I:%M:%S %p')
 
-# Windows' ping returns  1 on success and 0 on failure, so we need to not the result.
+# Just a comment Windows' ping returns  1 on success and 0 on failure, so we need to not the result.
 # If you want to suppress ping's output, simply add > NUL to the command
 
 
